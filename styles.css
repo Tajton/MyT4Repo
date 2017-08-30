@@ -1,0 +1,36 @@
+.div2{
+    height: 225px;
+    width:850px;
+    margin: auto;
+    overflow: auto;
+    background-color: blueviolet;
+}
+
+div{
+
+    height: 200px;
+    width: 800px;
+    margin: auto;
+    overflow: auto;
+    background-color: white;
+}
+
+.div3{
+    height: 200px;
+    width: 375px; 
+    float: left;
+    padding-left: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+.div4{
+    height: 200px;
+    width: 400px;
+    float: left;
+    background-color: white;
+}
+
+body{
+    background-image: url("kappasmall.jpg");
+    background-repeat: repeat;
+}
