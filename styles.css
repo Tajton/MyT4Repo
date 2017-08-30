@@ -30,6 +30,14 @@ div{
     background-color: white;
 }
 
+.divfooter{
+    height: 20px;
+    width: 208px;
+    margin: auto;
+    float: bottom;
+    background-color: white;
+}
+
 body{
     background-image: url("kappasmall.jpg");
     background-repeat: repeat;
